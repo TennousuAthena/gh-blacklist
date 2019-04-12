@@ -10,6 +10,7 @@
 - 被举报类型:type
 - 严重程度:level
 - 证据:evidence [原文地址, 存档地址1, 存档地址...]
+- 描述:description
 
 比如，用户名为evilperson的人在[qcminecraft/example/issue/666]()下发表了包含人身攻击的内容，程度十分恶劣，那么请在
 `/user/evalperson` 中写入
@@ -21,7 +22,8 @@
     "evidence": [
         "https://github.com/qcminecraft/example/issue/666",
         "https://web.archive.org/web/20190411142706/https://github.com/qcminecraft/example/issue/666"
-    ]
+    ],
+    "description": "描述"
 }
 ```
 
