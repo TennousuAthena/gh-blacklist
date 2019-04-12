@@ -1,0 +1,32 @@
+{
+    "username": "AibiTi",
+    "type": [
+        1,
+        4,
+        8
+    ],
+    "level": 4,
+    "evidence": [
+        [
+            "https://github.com/zhui-team/zhui/issues/13",
+            "https://web.archive.org/web/20190412134335/https://github.com/zhui-team/zhui/issues/13"
+        ],
+        [
+            "https://github.com/TommyLemon/APIJSON/issues/65",
+            "https://web.archive.org/web/20190412134541/https://github.com/TommyLemon/APIJSON/issues/65"
+        ],
+        [
+            "https://github.com/agalwood/Motrix/issues/16",
+            "https://web.archive.org/web/20190412134747/https://github.com/agalwood/Motrix/issues/16"
+        ],
+        [
+            "https://github.com/trazyn/ieaseMusic/issues/297",
+            "https://web.archive.org/web/20190412134956/https://github.com/trazyn/ieaseMusic/issues/297"
+        ],
+        [
+            "https://github.com/jaycie/react-native-city-pick/issues/1",
+            "https://web.archive.org/web/20190412135046/https://github.com/jaycie/react-native-city-pick/issues/1"
+        ]
+    ],
+    "description": "作弊行为：在用户首页Pin未参与贡献的仓库；发表人身攻击、广告内容；情节严重"
+}
