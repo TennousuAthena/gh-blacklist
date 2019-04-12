@@ -43,5 +43,14 @@
 ## Level 举报等级
 等级由轻到重，分为1~5五个等级
 
+## 贡献
+感谢！你可以通过以下方式参与贡献：
+
+### 发布Issue
+从[这里](https://github.com/qcminecraft/gh-blacklist/issues/new?assignees=&labels=&template=----.md&title=User)发布一个Issue，如果符合要求，则会被添加到仓库
+
+### 提交 Pull requests
+你可以直接按照以上要求在仓库内创建文件并提交PR
+
 ## 结语
 希望大家共同努力，共建良好的网络环境！
