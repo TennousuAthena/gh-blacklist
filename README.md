@@ -37,7 +37,8 @@
 | 1    | 人身攻击 | 
 | 2    | 广告 |
 | 3    | 政治敏感 |
-| 4    | 其他 |
+| 4    | 作弊行为 |
+| 8    | 其他不当言论 |
 | 9    | 虚假举报过多 |
 
 ## Level 举报等级
@@ -47,10 +48,17 @@
 感谢！你可以通过以下方式参与贡献：
 
 ### 发布Issue
-从[这里](https://github.com/qcminecraft/gh-blacklist/issues/new?assignees=&labels=&template=----.md&title=User)发布一个Issue，如果符合要求，则会被添加到仓库
+从[这里](https://github.com/qcminecraft/gh-blacklist/issues/new/choose)发布一个Issue，如果符合要求，则会被添加到仓库
 
 ### 提交 Pull requests
 你可以直接按照以上要求在仓库内创建文件并提交PR
+
+## 申请移除
+>人非圣贤，孰能无过。  ————《左传·宣公二年》
+每个人都可能犯错误，如果及时补救还为时不晚，若符合以下条件则可以考虑删除黑名单：
+- 删除不当言论，并在原文下或在社交媒体上发文道歉
+- 积极贡献本仓库
+- 获得原谅
 
 ## 结语
 希望大家共同努力，共建良好的网络环境！
