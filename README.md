@@ -15,10 +15,10 @@ Github是代码托管平台，不是某些寻取低级趣味的人的工具！
 - 描述:description
 
 比如，用户名为evilperson的人在[qcminecraft/example/issue/666]()下发表了包含人身攻击的内容，程度十分恶劣，那么请在
-`/user/evalperson` 中写入
+`/user/evilperson` 中写入
 ```
 {
-    "username": "evalperson",
+    "username": "evilperson",
     "type": 1,
     "level": 5,
     "evidence": [
